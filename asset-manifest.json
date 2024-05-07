@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anand278/JobHomePage/static/css/main.0827bd3f.css",
+    "main.js": "/Anand278/JobHomePage/static/js/main.d6f2f6de.js",
+    "static/js/453.0b81c225.chunk.js": "/Anand278/JobHomePage/static/js/453.0b81c225.chunk.js",
+    "index.html": "/Anand278/JobHomePage/index.html",
+    "main.0827bd3f.css.map": "/Anand278/JobHomePage/static/css/main.0827bd3f.css.map",
+    "main.d6f2f6de.js.map": "/Anand278/JobHomePage/static/js/main.d6f2f6de.js.map",
+    "453.0b81c225.chunk.js.map": "/Anand278/JobHomePage/static/js/453.0b81c225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0827bd3f.css",
+    "static/js/main.d6f2f6de.js"
+  ]
+}
